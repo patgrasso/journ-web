@@ -1,0 +1,17 @@
+{
+  "name": "journ-web",
+  "version": "0.0.1",
+  "description": "Web client for journ, a simple journal",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "journ",
+    "journal",
+    "blog",
+    "client"
+  ],
+  "author": "Patrick Grasso",
+  "license": "GPL-3.0"
+}
