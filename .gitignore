@@ -3,3 +3,6 @@
 
 # Downloaded node modules
 node_modules
+
+# Jest coverage report
+coverage
